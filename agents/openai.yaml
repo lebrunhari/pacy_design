@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pacy UI Specialist"
+  short_description: "Flutter UI and UX for the Pacy apps"
+  default_prompt: "Use $pacy-ui-specialist to review or implement Pacy Flutter interfaces with visual consistency."

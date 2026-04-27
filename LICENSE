@@ -1,0 +1,112 @@
+Pacy Reference-Only License
+Version 1.0
+SPDX-License-Identifier: LicenseRef-Pacy-Reference-Only-1.0
+
+Copyright (c) 2026 Pacy.
+
+All rights reserved.
+
+This is a proprietary, source-available, reference-only license. It is not an
+open source license.
+
+1. Definitions
+
+"Project" means the pacy-ui-specialist Codex skill, including its source files,
+documentation, reference materials, configuration, examples, and any other files
+distributed with it.
+
+"Pacy" means the owner of this Project and any entity or person expressly
+authorized by Pacy to maintain or use this Project.
+
+"Pacy Project" means a project, product, repository, workflow, service, or tool
+that is owned by, maintained by, or explicitly authorized in writing by Pacy.
+
+"Reference Use" means reading, studying, or using the Project as inspiration to
+understand how this Pacy-specific Codex skill is structured. Reference Use does
+not include copying, adapting, modifying, distributing, publishing, installing,
+executing, or otherwise using the Project or any substantial portion of it in a
+non-Pacy project.
+
+2. Permitted Use
+
+You may read and study the Project.
+
+You may use the Project as a reference or source of inspiration for learning how
+Pacy structured this Codex skill.
+
+Pacy may use, copy, modify, distribute, publish, install, execute, and maintain
+the Project in Pacy Projects.
+
+Any other use requires prior written authorization from Pacy.
+
+3. Restrictions
+
+Except as expressly permitted above, you may not:
+
+- copy, modify, adapt, translate, or create derivative works from the Project;
+- distribute, sublicense, publish, sell, rent, lease, host, or otherwise make the
+  Project available to third parties;
+- install, execute, or use the Project as a Codex skill or agent instruction set
+  in any non-Pacy project;
+- use the Project, its documentation, its reference files, or any substantial
+  portion of it in any project, product, repository, tool, service, workflow, or
+  commercial offering that is not a Pacy Project;
+- remove or alter copyright, license, ownership, or attribution notices;
+- imply that Pacy endorses, sponsors, or approves any non-Pacy project,
+  derivative, product, service, or workflow.
+
+These restrictions apply whether the non-Pacy use is commercial,
+non-commercial, public, private, internal, experimental, or educational.
+
+4. Ownership
+
+Pacy retains all rights, title, and interest in and to the Project, including all
+copyrights and other intellectual property rights.
+
+No rights are granted except those expressly stated in this license.
+
+5. Contributions
+
+Unless Pacy agrees otherwise in writing, any contribution submitted to this
+Project grants Pacy a perpetual, worldwide, royalty-free, irrevocable right to
+use, copy, modify, distribute, publish, sublicense, and otherwise incorporate the
+contribution into the Project or any Pacy Project.
+
+Submitting a contribution does not grant the contributor any additional right to
+use the Project outside the terms of this license.
+
+6. Trademarks
+
+This license does not grant permission to use the names, trademarks, service
+marks, logos, product names, domain names, or brand assets of Pacy, except where
+strictly necessary to refer to this Project.
+
+7. No Warranty
+
+The Project is provided "as is", without warranty of any kind, express or
+implied, including but not limited to warranties of merchantability, fitness for
+a particular purpose, non-infringement, accuracy, availability, or suitability
+for any use.
+
+8. Limitation of Liability
+
+To the maximum extent permitted by applicable law, Pacy will not be liable for
+any claim, damage, loss, liability, cost, or expense arising from or related to
+the Project, this license, or any use of the Project.
+
+9. Termination
+
+Any permission granted under this license terminates automatically if you breach
+its terms. Upon termination, you must stop using the Project and remove any
+copies or substantial portions of it from non-Pacy projects, products,
+repositories, tools, services, and workflows.
+
+10. GitHub
+
+The presence of this Project in a public or private GitHub repository does not
+grant any license beyond the minimum rights required to view and fork the
+repository under GitHub's Terms of Service.
+
+GitHub may not identify this custom license as a standard open source license.
+That is intentional: this Project is source-available for reference, but it is
+not open source.
